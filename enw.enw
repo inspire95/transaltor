@@ -1,0 +1,267 @@
+%E inproceedings
+%0 7222950__
+%A M. Ćepin  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Evolution of probabilistic safety assessment and its applications in nuclear power plants  
+%Y 2015  
+%V   
+%N   
+%P 53-60  
+%S Probabilistic Safety Assessment is a standardized method for assessing and improving nuclear power plant safety through the risk analysis. The risk deals with probabilities of events and their consequences. The development of risk criteria is a prerequisite for risk informed decision making. Development of risk informed decision making brings forward the risk analyses into the acceptance of decisions considering the risk analyses results. The results of probabilistic safety assessment show what to improve to decrease the risk and consequently contribute to enhanced safety.  
+%K fission reactor safety;nuclear power stations;probability;nuclear power plant safety;probabilistic safety assessment evolution;risk analysis;risk informed decision making;Conferences;Decision support systems;Power generation;Probabilistic logic;Safety;database;event tree;external events;fault tree;internal events;nuclear power plant;probabilistic safety assessment;risk;uncertainty  
+%D 10.1109/DT.2015.7222950  
+%I    
+
+%E inproceedings
+%0 7222959__
+%A M. Chochlik, P. Martincova, J. Kostolny  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Searching for hidden patterns in a large genetic database  
+%Y 2015  
+%V   
+%N   
+%P 107-113  
+%S This in this paper we present the design of the foundation of an expert system for clinical interpretation of the “-omics” data using methods of big data processing. Such an expert system should be able to classify tumors processing vast volume of input data of different nature (demographic, genomic, clinical, epidemiological, diagnostic) and to be ready to append data in real-time, to update itself, to learn, and ultimately to be an instrument for clinical oncologists in evaluating predispositions and disease prognosis and for selecting the most appropriate therapy.  
+%K Big Data;cancer;database management systems;expert systems;genetics;medical information systems;patient treatment;pattern recognition;big data processing;clinical interpretation;clinical oncologists;disease prognosis;expert system;hidden patterns;large genetic database;therapy;Bioinformatics;Cancer;DNA;Databases;Diseases;Genomics;Sequential analysis  
+%D 10.1109/DT.2015.7222959  
+%I    
+
+%E inproceedings
+%0 7222958__
+%A C. Chaikalis, V. Vlachos, C. Liolios  
+%B 2015 International Conference on Information and Digital Technologies  
+%T An adaptable LTE turbo decoder for indoor/low range outdoor environment: A study on low bit rates  
+%Y 2015  
+%V   
+%N   
+%P 102-106  
+%S In this work we study an adaptable SOVA/log-MAP turbo decoder for LTE mobile standard and flat Rayleigh fading channel. Particularly, this decoder is shown to adapt dynamically to different service scenarios, considering parameters like performance and complexity for indoor/low range outdoor operating environment (mobile speed of 4 km/h). We concentrate on physical shared channel and use pipeline turbo decoder architecture with 12 iterations. We examine two low data rates and for each one we consider the nine possible QCIs using five frame lengths. Considering BER and delay limitations for each QCI, SOVA is proposed for most of the cases for 0.5 Mbps, while either algorithm can be used for 10 Mbps and QCIs with tight BER limit.  
+%K Long Term Evolution;Rayleigh channels;adaptive codes;decoding;turbo codes;adaptable LTE turbo decoder;adaptable SOVA-log MAP turbo decoder;bit rate 0.5 Mbit/s;bit rate 10 Mbit/s;flat Rayleigh fading channel;indoor environment;low bit rate LTE decoder;low range outdoor environment;physical shared channel;pipeline turbo decoder;Bit rate;Conferences;Decision support systems;Decoding;Flat Rayleigh fading;LTE;SOVA;indoor/low range outdoor operating environment;log-MAP  
+%D 10.1109/DT.2015.7222958  
+%I    
+
+%E inproceedings
+%0 7222952__
+%A E. Delic, K. Löser, A. Hayek, J. Börcsök  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Platform independent safety-critical operating system  
+%Y 2015  
+%V   
+%N   
+%P 68-71  
+%S An end-element, a logic solver system and a sensor are essential parts of safety-critical systems. The time to market of a brand new logic solver system might drastically increase when a safety-critical operating system needs to be written from scratch. According to our observations, the commercial safety-critical operating systems are not flexible enough to be reused for a brand-new platform. Consequently, we are going to present a generic safety-critical operating system. The operating system is written in an object-oriented programming language. Inheritance and polymorphism are used to achieve hardware independency. The first results show that more than thirty percent of source code might be reused. Thus, a lot of time for testing, documenting and certifying can be saved.  
+%K object-oriented languages;operating systems (computers);programming languages;safety-critical software;source code (software);object-oriented programming language;platform independent safety-critical operating system;source code;Conferences;Decision support systems;Operating systems;IEC-61508;System-On-Chip;certification;real-time operating system;safety-critical software  
+%D 10.1109/DT.2015.7222952  
+%I    
+
+%E inproceedings
+%0 7222978__
+%A I. Dolińska, M. Jakubowski, A. Masiukiewicz  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Location ability of 802.11 access point  
+%Y 2015  
+%V   
+%N   
+%P 244-248  
+%S The possibility of IEEE 802.11 station location is investigated in this article. The AP location could be helpful for channel management optimization in small and home networks. Today there is some software which can collect information about neighboring 802.11 networks. The coordinates (latitude and longitude) are sometimes within the scope of measured parameters but the authors have never obtained any measurement results concerning these parameters. The authors analyze features of different location methods and the schedule of necessary activities during the location and optimization process.  
+%K telecommunication channels;telecommunication network management;wireless LAN;802.11 access point;channel management optimization;location ability;location methods;Conferences;Decision support systems;IEEE 802.11 Standard;802.11 standards;AP location;GPS;Key words;Wi-Fi;location techniques  
+%D 10.1109/DT.2015.7222978  
+%I    
+
+%E inproceedings
+%0 7222954__
+%A L. Falát, L. Pančíková, M. Hlinková  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Prediction model for high-volatile time series based on SVM regression approach  
+%Y 2015  
+%V   
+%N   
+%P 77-83  
+%S This paper deals with modelling high-volatile time series using modern machine learning technique called Support Vector Regression. After discussing the basic principles of Support Vector Machines (SVM), we construct SVM Regression Prediction Model. Afterwards, this prediction SVR model is applied to oil prices. Due to high-volatile and dynamic character these data are very difficult to model. Experiments are performed on three different time periods of crude oil data in order to find out the best conclusions for high-volatile series. Prediction accuracy of our SVR (Support Vector Regression) models, which is measured by MAPE numerical characteristic, is compared to standard approach which is represented by statistical Box-Jenkins models. Evaluating and discussing the results we find out that SVM models are more accurate than statistical Box-Jenkins models. Moreover, linear kernel function is best for modelling short-time high-volatile series and radial functions are much more effective in modelling long-time high-volatile series than kernel SVM functions.  
+%K learning (artificial intelligence);mathematics computing;regression analysis;support vector machines;time series;MAPE numerical characteristic;SVM regression approach;high-volatile time series;linear kernel function;machine learning technique;prediction model;radial functions;short-time high-volatile series;statistical Box-Jenkins models;support vector regression;Conferences;Decision support systems;Predictive models;Support vector machines;Time series analysis;ARIMA;SVM;Support Vector Regression;crude oil;time series  
+%D 10.1109/DT.2015.7222954  
+%I    
+
+%E inproceedings
+%0 7222953__
+%A M. Dossis, D. Amanatidis, I. Androulidakis  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Using behavioural synthesis for hardware generation of a contour-based image segmentation algorithm  
+%Y 2015  
+%V   
+%N   
+%P 72-76  
+%S In this contribution, the use of Behavioural Synthesis for hardware generation of a contour-based image segmentation method, is presented. The segmentation method examined is a well-known, state-of-the-art, robust, efficient and fast-converging one, that considers functionals depending on the curve geometry and image properties in a level-set framework. A cost function is built and sought to be minimized, formulated as a weighted sum of three integral measures; a robust alignment term that leads the evolving surface to the edges of the desired object, a minimal variance term that measures the homogeneity inside and outside the object, and a geodesic active surface term that is used mainly for regularization. The algorithm is initially implemented in MatLab and ADA and subsequently, it is ported to our Behavioural Synthesis tool, the CCC HLS framework, which is capable of delivering correct-by-construction RTL VHDL implementations of computation-intensive applications. This way, behavioural ADA specifications are transformed into RTL micro-architectures which then can be easily implemented by commercial RTL synthesizers.  
+%K hardware description languages;image segmentation;mathematics computing;CCC HLS framework;MatLab;RTL micro-architectures;RTL synthesizers;behavioural ADA specifications;behavioural synthesis tool;contour-based image segmentation algorithm;contour-based image segmentation method;correct-by-construction RTL VHDL implementations;curve geometry;geodesic active surface term;hardware generation;Conferences;Decision support systems;Hardware;Image segmentation;Contour Segmentation;Custom Coprocessors Compilation;FPGA Implementation;High Level Synthesis  
+%D 10.1109/DT.2015.7222953  
+%I    
+
+%E inproceedings
+%0 7222979__
+%A I. Dolińska, M. Jakubowski, A. Masiukiewicz, G. Rządkowski, J. Sobol  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Improvement of content window size selection algorithm for small 802.11n networks  
+%Y 2015  
+%V   
+%N   
+%P 249-254  
+%S Wi-Fi networks based on IEEE 802.11n standard have become very popular in private home networks. Some very basic elements of DCF (Distributed Coordination Function) media access schema have not been changed from the beginning of the standard. The authors analyze in this article, how much backoff time algorithm decreases the radio channel throughput. Then the new adaptive algorithm of improvement of contention window minimum and maximum values selection is proposed. This algorithm decreases the dead time in wireless network.  
+%K home networks;wireless LAN;wireless channels;DCF media access schema;Wi-Fi networks;content window size selection algorithm;distributed coordination function media access schema;private home networks;radio channel;small 802.11n networks;wireless network;Conferences;IEEE 802.11n Standard;802.11n standard;Backoff time;CW;Contention Window;DCF;Wi-Fi network  
+%D 10.1109/DT.2015.7222979  
+%I    
+
+%E inproceedings
+%0 7222951__
+%A M. Čadecký, M. Varga, N. Adamko  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Mesoscopic movement model of deliberative pedestrian agents  
+%Y 2015  
+%V   
+%N   
+%P 61-67  
+%S The agent based simulation is often utilised for modelling of complex systems composed of large number of autonomous entities. The computational complexity of such models depends on the chosen level of details and naturally increases with increasing number of modelled entities. The computationally intensive microscopic modelling of entities' behaviour might often be substituted with mesoscopic modelling, even without sacrificing much of the validity of the model. The paper presents mesoscopic agent based movement model of pedestrians. Two layer agent based architecture ABAsim is utilized. Lower layer dynamic agents represent pedestrians; they are capable of autonomous reasoning (utilising BDI paradigm), but their movement is restricted due to the mesoscopic nature of the model. Managing agent of upper level is responsible for modelling of the movement. This agent collects requests from pedestrian agents, assists them with navigation, resolves conflicts between pedestrians and moves them. Proposed movement model utilizes cellular infrastructure model with cell of various sizes (in order to guarantee validity of the model, while maintaining computational efficiency). Interactions among pedestrians moving between cells are modelled with the help of specialised graphs that are also briefly discussed.  
+%K computational complexity;inference mechanisms;large-scale systems;modelling;pedestrians;ABAsim;agent based architecture;agent based simulation;autonomous entities;autonomous reasoning;cellular infrastructure model;complex system modelling;computational complexity;computationally intensive microscopic modelling;deliberative pedestrian agents;mesoscopic agent based movement model;mesoscopic modelling;mesoscopic movement model;Conferences;Decision support systems;agent based simulation;mesoscopic model;pedestrian simulation  
+%D 10.1109/DT.2015.7222951  
+%I    
+
+%E inproceedings
+%0 7222949__
+%A R. Briś  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Risk modelling of personnel fatality at accidents on offshore installations  
+%Y 2015  
+%V   
+%N   
+%P 44-52  
+%S Risk to safety of personnel on offshore installations is normally modelled by application of event trees, where the risk is defined as a product of event frequency and its consequences. This method is steady state whilst the actual event is time dependent. For example, gas release is an event comprising the size of gas cloud being released, probabilities of ignition, fire or explosion, fatality, escalation to new releases and fire and/or explosion, and the probability of fatality, all varying with time. This paper brings new perspective, how the risk to safety of personnel could be evaluated in dynamic context. New approach is presented whereby the time-dependent events and the time-dependent probability of fatality are modelled by means of the analytical computation method based on modeling of different accident scenarios by use of the directed acyclic graph and Fault Tree Analysis method. Using these methods the modeled scenarios change with relevant probabilities at defined times to configurations with appropriate probabilities of fatalities. The paper uses a realistic example from the offshore industry, where different sizes of leak have different probability characteristics. Specifically small, medium and large leaks are evaluated.  
+%K accident prevention;directed graphs;offshore installations;personnel;probability;risk management;trees (mathematics);analytical computation method;directed acyclic graph;event trees application;fatality time-dependent probability;fault tree analysis method;offshore industry;offshore installation accident;personnel fatality risk model;personnel safety;time-dependent events;Accidents;Conferences;Decision support systems;Offshore installations;Personnel;directed acyclic graph;fault tree;hydrocarbon leak;offshore industry;risk modelling  
+%D 10.1109/DT.2015.7222949  
+%I    
+
+%E inproceedings
+%0 7222942__
+%A I. Androulidakis, V. Vlachos, P. Chatzimisios  
+%B 2015 International Conference on Information and Digital Technologies  
+%T A methodology for testing battery deprivation denial of service attacks in mobile phones  
+%Y 2015  
+%V   
+%N   
+%P 6-10  
+%S Unlike confidentiality and privacy concerns, the preservation of mobile phone service availability has not received the same attention from researchers, albeit an important factor, especially in business but also in life threatening situations. In this paper we present a methodology for testing practical battery deprivation denial of service attacks in mobile phones. We focus on attacks against the mobile terminal and not against the network. A variety of scenarios is proposed encompassing stealth Short Message Service messages (SMS), as well as very short calls interrupted before the phone actually rings. Both techniques are invisible to the target under attack and force the mobile phone to continuously transmit, consuming energy up to the point of complete battery depletion. Current flow and thus power consumption can be measured using a hardware based logger while a thermal camera can further measure the rise in temperature. Preliminary results show that it is trivially easy to launch an effective denial of service attack, with minimal cost and resources.  
+%K cameras;computer network security;data loggers;electronic messaging;mobile computing;power aware computing;power consumption;SMS;battery depletion;denial of service attack;hardware based logger;mobile phone service;mobile terminal;power consumption;short message service message;thermal camera;Batteries;Computer crime;Conferences;Decision support systems;Mobile handsets;Testing;Availability;Denial of Service;Forced Transmission;Power depletion;Power measurement;Short Calls;Stealth Calls;Stealth SMS  
+%D 10.1109/DT.2015.7222942  
+%I    
+
+%E inproceedings
+%0 7222943__
+%A I. Androulidakis, V. Vlachos, C. Chaikalis  
+%B 2015 International Conference on Information and Digital Technologies  
+%T An application free method to locate a mobile phone in a given area without user consent or provider help  
+%Y 2015  
+%V   
+%N   
+%P 11-15  
+%S There are many cases where a user's exact location has to be revealed and this can be done by locating his mobile phone. This paper presents a method to achieve this with great accuracy, only given as input the mobile phone number and the greater area it is located in (e.g. the city or the neighborhood). The methodology is absolutely autonomous and there is no need to install any software or application in the phone. Furthermore, no special infrastructure has to be in place in the area and no prior setup or prior arrangements have to take place at an earlier point in time before the moment the location trace is actually needed. The principle of operation is based on techniques that stealthily force the mobile phone to transmit radio waves according to the will of the tracer and on tracing the direction with appropriate direction-finding antennas, until the exact position of the phone is ultimately found.  
+%K directive antennas;mobile handsets;mobile radio;radio direction-finding;application free method;direction-finding antenna;mobile phone location;mobile phone number;radio wave transmission;user consent;Conferences;Decision support systems;Mobile handsets;Forced Transmission;GPS;Invisible SMS;Locate mobile phone;Location;Privacy;Short Calls;Silent SMS;Stolen phone  
+%D 10.1109/DT.2015.7222943  
+%I    
+
+%E inproceedings
+%0 7222989__
+%A W. A. Shier, S. N. Yanushkevich  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Biometrics in human-machine interaction  
+%Y 2015  
+%V   
+%N   
+%P 305-313  
+%S This paper evaluates the role of biometrics in human-machine interactions in applications such as decision-making, interview support systems and human-robot interfacing. Presently, there are biometrics projects that utilize the “talking face” technology. We forecast that future systems will verify humans using their biometrics, analyze facial expressions, temperature and blood pressure of the human, as well as generate cognitive questions and analyze answers. This paper presents a survey of the related work, and provides a vision of future generations of complex biometric-based human-machine systems and their applications.  
+%K face recognition;human computer interaction;humanoid robots;blood pressure;cognitive questions;complex biometric-based human-machine systems;facial expressions;human-machine interaction;humanoid robots;Affective computing;Biometrics (access control);Decision making;Man machine systems;Semantics;Speech;Uncertainty;affective computing;biometrics;human-machine interface;humanoid robotics  
+%D 10.1109/DT.2015.7222989  
+%I    
+
+%E inproceedings
+%0 7222944__
+%A Y. Artsiomchyk, H. Zhivitskaya  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Improving the supply chain efficiency based on reliability analysis  
+%Y 2015  
+%V   
+%N   
+%P 16-21  
+%S One of the objectives of every company is to minimize disruption to its operation. It is an axiom of business that no business stands alone. The reliability of any business depends in part on the reliability of its upstream business partners. As a consequence, the level of disruption to a company's operations depends in part on the reliability of its upstream business partners. Every supply chain is composed of a network of businesses where each depends on upstream business for supplies and services. A reliability chain exists along supply chains. This paper models for improving supply chains efficiency by designing SC that is robust (i.e., perform well with respect to uncertainties in the data, such as demand) and reliable (i.e., perform well when parts of the system fail).  
+%K reliability;supply chain management;disruption minimization;reliability analysis;supply chain efficiency;upstream business partners;Conferences;Decision support systems;Reliability;Supply chains;Supply chains and networks;reliability analysis;risk management;robustness  
+%D 10.1109/DT.2015.7222944  
+%I    
+
+%E inproceedings
+%0 7222945__
+%A E. Babeshko, V. Kharchenko, O. Odarushchenko, V. Sklyar  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Toward automated FMEDA for complex electronic products  
+%Y 2015  
+%V   
+%N   
+%P 22-27  
+%S Failure Modes, Effects, and Diagnostic Analysis (FMEDA) is a popular technique for evaluation of reliability and safety of a given product. This paper discusses possible challenges in application of FMEDA and related analysis techniques to complex electronic products like FPGA-based platforms. Ways of tool support to make FMEDA automated are addressed.  
+%K IEC standards;electronic products;failure analysis;field programmable gate arrays;reliability;FPGA-based platforms;analysis technique;automated FMEDA;complex electronic product;failure modes effects and diagnostic analysis;product safety;reliability;Conferences;Decision support systems;FMEDA;FPGA;SIL;safety analysis  
+%D 10.1109/DT.2015.7222945  
+%I    
+
+%E inproceedings
+%0 7222948__
+%A R. Bilkova, R. Machova  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Affect e-commerce services the use of services offered by eGovernment?  
+%Y 2015  
+%V   
+%N   
+%P 39-43  
+%S The design and implementation of information systems, and from the perspective of effective communication, information technologies play an important role in specifying ways of company behaviour as such. It is hard to decide what individual companies consider to be important, what their initial knowledge about the use of the Internet is, or what experience with the public administration services they have. This study is dedicated to the question of whether using e-commerce services affect the use of services offered by eGovernment. Another aim of this study is to try to identify the basic characteristics determining the relationship of companies towards electronic services B2B, B2C and B2G.  
+%K electronic commerce;government data processing;public administration;B2B;B2C;B2G;e-commerce services;eGovernment;electronic services;information systems;public administration services;Conferences;Decision support systems;cluster analysis;e-Government;e-commerce  
+%D 10.1109/DT.2015.7222948  
+%I    
+
+%E inproceedings
+%0 7222947__
+%A A. Bazhanov, V. Magergut, R. Vashchenko  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Operation model of the cement kiln node #x201C;material temperature in the drying zone #x201D; as a fuzzy behavior chart  
+%Y 2015  
+%V   
+%N   
+%P 35-38  
+%S In this paper we propose the application of invented methods for construction the advising control system. It bases on contructing the special fuzzy chart, which could take into account all control and disturbing influences taking place in complex object. For such object as rotary cement kiln here we described this methodology, based on one of its main nodes (technological values). Thus with help of sets of such fuzzy behavior charts of all basic nodes we can account not only normal operation of apparatus but also find out emergency situations, which could be in it.  
+%K cements (building materials);drying;fuzzy set theory;kilns;advising control system;cement kiln node;drying zone;emergency situations;fuzzy behavior chart;material temperature;operation model;Conferences;Decision support systems;Kilns;advising control system;fuzzy node behaviour chart;rotary kiln;technological condition;technological value  
+%D 10.1109/DT.2015.7222947  
+%I    
+
+%E inproceedings
+%0 7222946__
+%A M. Bakkali, C. Mascarenas-Perez-Inigo  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Real time digital signal processing and measurement method for electromagnetic compatibility verification into the ships  
+%Y 2015  
+%V   
+%N   
+%P 28-34  
+%S In this paper, we present a new Electromagnetic Compatibility (EMC) measurement and verification system for ships, based on real time digital signal processing techniques, in combination with a VLF-UHF receiver. We programmed all the algorithms for the systems, in order to have reliable software, known, expandable and intuitive. The basis of our strategy is first described, then, our implemented computing algorithms are explained. Recommendations and examples about the significant parameters for dealing with the measurement process are given, and finally several measurements are performed to validate the proposed method.  
+%K electromagnetic compatibility;marine engineering;measurement;radio receivers;ships;signal processing;EMC;VLF-UHF receiver;electromagnetic compatibility verification;measurement method;real time digital signal processing techniques;ships;Conferences;Decision support systems;Digital signal processing;Electromagnetic compatibility;Q measurement;Real-time systems;Time measurement;Digital Signal Processing (DSP);Electromagnetic Compatibility (EMC);Electromagnetic Interference (EMI);Maritime Radiocommunications;Sound Card  
+%D 10.1109/DT.2015.7222946  
+%I    
+
+%E inproceedings
+%0 7222994__
+%A S. A. Stankevich, A. A. Kozlova  
+%B 2015 International Conference on Information and Digital Technologies  
+%T Long-term land cover change computer-aided mapping by remote sensed imagery  
+%Y 2015  
+%V   
+%N   
+%P 339-341  
+%S The novel procedure for long-term land cover change computer-aided mapping by remote sensed imagery is presented. This two-stage procedure includes the unified land cover classification by time-delayed multi/hyperspectral satellite images and land cover change evaluation using the expert knowledge formalization addressing an actual application domain.  
+%K geophysical image processing;image classification;remote sensing;actual application domain;expert knowledge formalization;land cover change evaluation;long-term land cover change computer-aided mapping;remote sensed imagery;time-delayed multihyperspectral satellite images;two-stage procedure;unified land cover classification;Conferences;Decision support systems;Handheld computers;Remote sensing;change detection;expert knowledge formalization;hyperspectral imagery classification;intensity of importance;land cover  
+%D 10.1109/DT.2015.7222994  
+%I    
+
+
